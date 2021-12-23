@@ -106,7 +106,7 @@
 
 
 ## Github Stats  
-# <div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th1s-Summer&show_icons=true&theme=tokyonight)</div>  
+# <div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th1s-Summer&show_icons=true&bg_color=DEG,64A8FA,D8A3FF)</div>  
   
 
 <br/>  
