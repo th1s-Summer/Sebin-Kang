@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/kMvnYUB.gif" align="center" style="width: 80%" />
+<img src="https://i.imgur.com/kMvnYUB.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -106,7 +106,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# <div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th1s-Summer&show_icons=true&theme=blueberry)</div>  
+  
 
 <br/>  
 
@@ -118,24 +119,15 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+  
+
+<br/>  
+
+
 <br />
 
 ----
