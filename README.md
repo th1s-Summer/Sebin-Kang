@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/JavaScript|★☆☆☆☆-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React|☆☆☆☆☆-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS|★☆☆☆☆-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github|★★☆☆☆-181717?style=flat-square&logo=Github&logoColor=white"/></p>
+<!-- <img src="https://img.shields.io/badge/Github|★★☆☆☆-181717?style=flat-square&logo=Github&logoColor=white"/></p> -->
 
 ### 📮 Mail  
 <div align="left">
